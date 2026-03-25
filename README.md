@@ -1,2 +1,2 @@
-# 25021339-L-Minh-t
+# 25021339-Lê Minh Đạt
 Bài tập về nhà tư duy tính toán
